@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/Indominism/count.svg?"  />
 </div>
 <hr>
-<h1>Indominism</h1>
+<h1 align="center">Indominism</h1>
 <p>infinite gitbucks hack tutorial:</p>
 <kbd><kbd>Alt</kbd>+<kbd>F4</kbd></kbd> - free gitbucks keybind
 
